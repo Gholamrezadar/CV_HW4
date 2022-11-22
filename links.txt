@@ -1,0 +1,4 @@
+https://github.com/alfianhid/Feature-Extraction-Gray-Level-Co-occurrence-Matrix-GLCM-with-Python/blob/master/Feature_Extraction_Gray_Level_Co_occurrence_Matrix_(GLCM)_with_Python.ipynb
+https://scikit-image.org/docs/stable/api/skimage.feature.html#skimage.feature.graycomatrix
+https://www.robots.ox.ac.uk/~vgg/research/texclass/without.html
+https://scikit-image.org/docs/stable/auto_examples/features_detection/plot_glcm.html#sphx-glr-auto-examples-features-detection-plot-glcm-py
